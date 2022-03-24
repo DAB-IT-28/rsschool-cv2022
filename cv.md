@@ -20,6 +20,7 @@ IT.
 - CSS/SASS
 - JavaScript
 - Git
+- C#
 
 ## Code example
 
